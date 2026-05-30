@@ -1,0 +1,209 @@
+{
+  "pendientes": {
+    "amalfi_grande": {
+      "col": "Odyssey · Amalfi",
+      "name": "Pendientes Estrella de Mar",
+      "price": 15,
+      "imgs": ["images/prod_pend_amalfi_1.png", "images/prod_pend_amalfi_2.png"],
+      "desc": "Estrella de mar texturizada en acero inoxidable dorado. Pieza llamativa y artesanal inspirada en la costa italiana. Hipoalergénica y resistente al agua.",
+      "features": ["Acero inoxidable 316L bañado en oro 18K", "Estrella de mar texturizada", "32mm × 32mm", "Resistente al agua", "Hipoalergénico"],
+      "activo": true
+    },
+    "amalfi_mini": {
+      "col": "Odyssey · Amalfi",
+      "name": "Mini Estrella de Mar",
+      "price": 15,
+      "imgs": ["images/prod_pend_amalfi_mini_1.png", "images/prod_pend_amalfi_mini_2.png"],
+      "desc": "Versión mini de la estrella de mar Amalfi. Discreta, delicada y perfecta para llevar todos los días o combinar con el collar Amalfi.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Diseño mini 10mm", "Resistente al agua", "Hipoalergénico", "Ideal para uso diario"],
+      "activo": true
+    },
+    "marrakesh": {
+      "col": "Odyssey · Marrakesh",
+      "name": "Pendientes Marrakesh",
+      "price": 15,
+      "imgs": ["images/prod_pend_marrakesh_1.png", "images/prod_pend_marrakesh_2.png"],
+      "desc": "Pendientes minimalistas inspirados en rayos solares del desierto de Marruecos. Elegantes y con personalidad, perfectos para aportar ligereza a cualquier look.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Símbolo solar minimalista", "Resistente al agua", "Hipoalergénico", "Hecho a mano"],
+      "activo": true
+    },
+    "cala": {
+      "col": "Odyssey · Cala",
+      "name": "Pendientes Sol Cala",
+      "price": 15,
+      "imgs": ["images/prod_pend_cala_1.png", "images/prod_pend_cala_2.png", "images/prod_pend_cala_3.png"],
+      "desc": "El sol de la colección CALA en forma de pendiente de aro. Luminoso y veraniego, perfecto para el día a día y los looks de playa.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Diseño sol artesanal", "Resistente al agua", "Hipoalergénico", "Estilo mediterráneo"],
+      "activo": true
+    },
+    "aura": {
+      "col": "Colección Aura",
+      "name": "Pendientes Aura Luna y Estrella",
+      "price": 15,
+      "imgs": ["images/prod_pend_aura_1.png", "images/prod_pend_aura_2.png", "images/prod_pend_aura_3.png"],
+      "desc": "Pendientes asimétricos de aro con luna y estrella. Delicados, modernos y perfectos para llevar cada día. Combinan a la perfección con el collar Aura.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Diseño asimétrico luna y estrella", "Resistente al agua", "Hipoalergénico", "Combina con collar Aura"],
+      "activo": true
+    },
+    "lumen": {
+      "col": "Colección Lumen",
+      "name": "Pendientes Lumen",
+      "price": 15,
+      "imgs": ["images/prod_pend_lumen_1.png", "images/prod_pend_lumen_2.png", "images/prod_pend_lumen_3.png"],
+      "desc": "Pendientes con símbolo de corazón estrellado dorado. Minimalistas y con significado, perfectos para elevar cualquier look diario.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Símbolo de luz y energía", "Resistente al agua", "Hipoalergénico", "Diseño minimalista"],
+      "activo": true
+    }
+  },
+  "bloom_pendientes": {
+    "rosa":    { "name": "Bloom Rosa",    "img1": "images/prod_pend_bloom_rosa_1.png",    "img2": "images/prod_pend_bloom_rosa_2.png",    "activo": true },
+    "aqua":    { "name": "Bloom Aqua",    "img1": "images/prod_pend_bloom_aqua_1.png",    "img2": "images/prod_pend_bloom_aqua_2.png",    "activo": true },
+    "emerald": { "name": "Bloom Emerald", "img1": "images/prod_pend_bloom_emerald_1.png", "img2": "images/prod_pend_bloom_emerald_2.png", "activo": true },
+    "sunset":  { "name": "Bloom Sunset",  "img1": "images/prod_pend_bloom_sunset_1.png",  "img2": "images/prod_pend_bloom_sunset_2.png",  "activo": true },
+    "pearl":   { "name": "Bloom Pearl",   "img1": "images/prod_pend_bloom_pearl_1.png",   "img2": "images/prod_pend_bloom_pearl_2.png",   "activo": true }
+  },
+  "collares": {
+    "amalfi": {
+      "col": "Odyssey · Amalfi",
+      "name": "Collar Amalfi",
+      "price": 27,
+      "imgs": ["images/prod_collar_amalfi_1.png", "images/prod_collar_amalfi_2.png", "images/prod_collar_amalfi_3.png"],
+      "desc": "Inspirado en la magia del Mediterráneo y la costa italiana. Charms dorados de sol y mar, hecho a mano.",
+      "features": ["Acero inoxidable 316L bañado en oro 18K", "Resistente al agua", "40 o 45 cm", "Hipoalergénico", "Hecho a mano en España"],
+      "activo": true
+    },
+    "marrakesh": {
+      "col": "Odyssey · Marrakesh",
+      "name": "Collar Marrakesh",
+      "price": 27,
+      "imgs": ["images/prod_collar_marrakesh_1.png", "images/prod_collar_marrakesh_2.png"],
+      "desc": "Gran símbolo solar central convertido en amuleto moderno. Evoca el sol del desierto marroquí y la fuerza interior.",
+      "features": ["Acero inoxidable 316L bañado en oro 18K", "Símbolo solar artesanal", "Resistente al agua", "Hipoalergénico"],
+      "activo": true
+    },
+    "cala": {
+      "col": "Odyssey · Cala",
+      "name": "Collar Cala",
+      "price": 27,
+      "imgs": ["images/prod_collar_cala_1.png", "images/prod_collar_cala_2.png"],
+      "desc": "Sol radiante, concha nacarada, flor azul y ave dorada. El instante en que la primavera se transforma en verano.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Charms: sol, concha, flor y ave", "Resistente al agua", "Estilo boho coastal"],
+      "activo": true
+    },
+    "aura": {
+      "col": "Colección Aura",
+      "name": "Collar Aura",
+      "price": 27,
+      "imgs": ["images/prod_collar_aura_1.png", "images/prod_collar_aura_2.png", "images/prod_collar_aura_3.png"],
+      "desc": "Doble cadena con luna central y estrellas. Minimalista, elegante y atemporal.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Doble cadena", "Luna y estrellas", "Resistente al agua"],
+      "activo": true
+    },
+    "lumen": {
+      "col": "Colección Lumen",
+      "name": "Collar Lumen",
+      "price": 27,
+      "imgs": ["images/prod_collar_lumen_1.png", "images/prod_collar_lumen_2.png", "images/prod_collar_lumen_3.png"],
+      "desc": "Joyas doradas con significado. Símbolos de luz y energía en acero inoxidable.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Símbolo luz y energía", "Resistente al agua", "Diseño minimalista"],
+      "activo": true
+    },
+    "bloom_rosa": {
+      "col": "Bloom · Rosa",
+      "name": "Collar Bloom Rosa",
+      "price": 27,
+      "imgs": ["images/prod_collar_bloom_rosa_1.png", "images/prod_collar_bloom_rosa_2.png"],
+      "desc": "Flores rosas hechas a mano en acero inoxidable dorado. Delicado, romántico y con significado.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Flor rosa artesanal", "Resistente al agua", "Hecho a mano en España"],
+      "activo": true
+    },
+    "bloom_aqua": {
+      "col": "Bloom · Aqua",
+      "name": "Collar Bloom Aqua",
+      "price": 27,
+      "imgs": ["images/prod_collar_bloom_aqua_1.png", "images/prod_collar_bloom_aqua_2.png", "images/prod_collar_bloom_aqua_3.png"],
+      "desc": "Flores mint hechas a mano. Frescura del agua y calma del mar en cada pieza.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Flor mint artesanal", "Resistente al agua", "Hecho a mano"],
+      "activo": true
+    },
+    "bloom_emerald": {
+      "col": "Bloom · Emerald",
+      "name": "Collar Bloom Emerald",
+      "price": 27,
+      "imgs": ["images/prod_collar_bloom_emerald_1.png", "images/prod_collar_bloom_emerald_2.png", "images/prod_collar_bloom_emerald_3.png"],
+      "desc": "Flores verdes hechas a mano, libélulas y símbolos naturales. Para conectar con tu autenticidad.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Flor esmeralda artesanal", "Resistente al agua", "Hecho a mano"],
+      "activo": true
+    },
+    "bloom_sunset": {
+      "col": "Bloom · Sunset",
+      "name": "Collar Bloom Sunset",
+      "price": 27,
+      "imgs": ["images/prod_collar_bloom_sunset_1.png", "images/prod_collar_bloom_sunset_2.png", "images/prod_collar_bloom_sunset_3.png"],
+      "desc": "Flores coral hechas a mano y símbolos marinos. Para mujeres que aman el verano.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Flor coral artesanal", "Resistente al agua", "Hecho a mano"],
+      "activo": true
+    },
+    "bloom_pearl": {
+      "col": "Bloom · Pearl",
+      "name": "Collar Bloom Pearl",
+      "price": 27,
+      "imgs": ["images/prod_collar_bloom_pearl_1.png", "images/prod_collar_bloom_pearl_2.png"],
+      "desc": "Flores nacaradas y detalles dorados. Minimalista, femenina y atemporal.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Flor nacarada artesanal", "Resistente al agua", "Hecho a mano"],
+      "activo": true
+    },
+    "capri": {
+      "col": "Colours · Capri",
+      "name": "Collar Capri",
+      "price": 22,
+      "imgs": ["images/prod_collar_capri_1.png", "images/prod_collar_capri_2.png"],
+      "desc": "Vibrante y mediterráneo. Colores del verano italiano en acero inoxidable.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Diseño colorido mediterráneo", "Resistente al agua", "Hecho a mano"],
+      "activo": true
+    },
+    "coquette": {
+      "col": "Colours · Coquette",
+      "name": "Collar Coquette",
+      "price": 22,
+      "imgs": ["images/prod_collar_coquette_1.png", "images/prod_collar_coquette_2.png"],
+      "desc": "Romántica y femenina. Tonos pastel y detalles dorados para un toque dulce y sofisticado.",
+      "features": ["Acero inoxidable bañado en oro 18K", "Estilo coquette aesthetic", "Resistente al agua", "Diseño romántico"],
+      "activo": true
+    }
+  },
+  "colecciones": {
+    "amalfi_c":          { "type": "Collar · Odyssey Amalfi",     "name": "Collar Amalfi",          "price": 27, "imgs": ["images/prod_collar_amalfi_1.png","images/prod_collar_amalfi_2.png","images/prod_collar_amalfi_3.png"],                                       "desc": "Inspirado en la magia del Mediterráneo y la costa italiana. Charms dorados de sol y mar, hecho a mano.",                           "feats": ["Acero inoxidable 316L bañado en oro 18K","Resistente al agua","40 o 45 cm","Hipoalergénico","Hecho a mano en España"], "activo": true },
+    "amalfi_p":          { "type": "Pendientes · Odyssey Amalfi",  "name": "Estrella de Mar Amalfi", "price": 15, "imgs": ["images/prod_pend_amalfi_1.png","images/prod_pend_amalfi_2.png"],                                                                             "desc": "Estrella de mar texturizada en acero inoxidable dorado. Pieza llamativa y artesanal inspirada en la costa italiana.",              "feats": ["Acero inoxidable bañado en oro 18K","Estrella de mar texturizada","Resistente al agua","Hipoalergénico"],                   "activo": true },
+    "amalfi_set":        { "type": "Set Completo · Odyssey Amalfi","name": "Set Amalfi",              "price": 35, "imgs": ["images/AMALFI_SET.png","images/prod_collar_amalfi_1.png","images/prod_pend_amalfi_1.png"],                                                  "desc": "Collar y pendientes Amalfi juntos. El conjunto mediterráneo perfecto para el verano.",                                             "feats": ["Collar + Pendientes estrella de mar","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€ vs piezas por separado"], "activo": true },
+    "marrakesh_c":       { "type": "Collar · Odyssey Marrakesh",   "name": "Collar Marrakesh",        "price": 27, "imgs": ["images/prod_collar_marrakesh_1.png","images/prod_collar_marrakesh_2.png"],                                                                  "desc": "Gran símbolo solar central convertido en amuleto moderno. Evoca el sol del desierto marroquí y la fuerza interior.",               "feats": ["Acero inoxidable 316L bañado en oro 18K","Símbolo solar artesanal","Resistente al agua","Hipoalergénico"],                  "activo": true },
+    "marrakesh_p":       { "type": "Pendientes · Odyssey Marrakesh","name": "Pendientes Marrakesh",   "price": 15, "imgs": ["images/prod_pend_marrakesh_1.png","images/prod_pend_marrakesh_2.png"],                                                                      "desc": "Pendientes minimalistas con símbolo solar, inspirados en la magia de Marruecos. Elegantes y ligeros.",                            "feats": ["Acero inoxidable bañado en oro 18K","Símbolo solar minimalista","Resistente al agua","Hipoalergénico"],                     "activo": true },
+    "marrakesh_set":     { "type": "Set Completo · Odyssey Marrakesh","name": "Set Marrakesh",        "price": 35, "imgs": ["images/prod_collar_marrakesh_2.png","images/prod_collar_marrakesh_1.png","images/prod_pend_marrakesh_1.png"],                               "desc": "Collar y pendientes Marrakesh. El conjunto del desierto dorado.",                                                                  "feats": ["Collar + Pendientes solar","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€ vs piezas por separado"],   "activo": true },
+    "cala_c":            { "type": "Collar · Odyssey Cala",        "name": "Collar Cala",             "price": 27, "imgs": ["images/prod_collar_cala_1.png","images/prod_collar_cala_2.png"],                                                                            "desc": "Sol radiante, concha nacarada, flor azul y ave dorada. El instante en que la primavera se transforma en verano.",                 "feats": ["Acero inoxidable bañado en oro 18K","Charms: sol, concha, flor y ave","Resistente al agua","Estilo boho coastal"],          "activo": true },
+    "cala_p":            { "type": "Pendientes · Odyssey Cala",    "name": "Sol Cala",                "price": 15, "imgs": ["images/prod_pend_cala_1.png","images/prod_pend_cala_2.png","images/prod_pend_cala_3.png"],                                                  "desc": "Sol artesanal en forma de pendiente de aro. Luminoso y veraniego, perfecto para el día a día.",                                   "feats": ["Acero inoxidable bañado en oro 18K","Diseño sol artesanal","Resistente al agua","Hipoalergénico"],                          "activo": true },
+    "cala_set":          { "type": "Set Completo · Odyssey Cala",  "name": "Set Cala",                "price": 35, "imgs": ["images/CALA_3.png","images/prod_collar_cala_1.png","images/prod_pend_cala_1.png"],                                                          "desc": "Collar y pendientes Cala. El conjunto mediterráneo de primavera.",                                                                 "feats": ["Collar + Pendientes sol","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                            "activo": true },
+    "aura_c":            { "type": "Collar · Aura",                "name": "Collar Aura",             "price": 27, "imgs": ["images/prod_collar_aura_1.png","images/prod_collar_aura_2.png","images/prod_collar_aura_3.png"],                                            "desc": "Doble cadena con luna central y estrellas. Minimalista, elegante y atemporal.",                                                    "feats": ["Acero inoxidable bañado en oro 18K","Doble cadena","Luna y estrellas","Resistente al agua"],                               "activo": true },
+    "aura_p":            { "type": "Pendientes · Aura",            "name": "Luna y Estrella Aura",    "price": 15, "imgs": ["images/prod_pend_aura_1.png","images/prod_pend_aura_2.png","images/prod_pend_aura_3.png"],                                                  "desc": "Pendientes asimétricos de aro con luna y estrella. Delicados y modernos para cada día.",                                          "feats": ["Acero inoxidable bañado en oro 18K","Diseño asimétrico","Resistente al agua","Combina con collar Aura"],                   "activo": true },
+    "aura_set":          { "type": "Set Completo · Aura",          "name": "Set Aura",                "price": 35, "imgs": ["images/prod_collar_aura_3.png","images/prod_collar_aura_1.png","images/prod_pend_aura_1.png"],                                              "desc": "Collar y pendientes Aura. Luna, estrellas y equilibrio.",                                                                         "feats": ["Collar + Pendientes luna y estrella","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],               "activo": true },
+    "lumen_c":           { "type": "Collar · Lumen",               "name": "Collar Lumen",            "price": 27, "imgs": ["images/prod_collar_lumen_1.png","images/prod_collar_lumen_2.png","images/prod_collar_lumen_3.png"],                                         "desc": "Joyas doradas con significado. Símbolos de luz y energía en acero inoxidable.",                                                   "feats": ["Acero inoxidable bañado en oro 18K","Símbolo luz y energía","Resistente al agua","Diseño minimalista"],                    "activo": true },
+    "lumen_p":           { "type": "Pendientes · Lumen",           "name": "Pendientes Lumen",        "price": 15, "imgs": ["images/prod_pend_lumen_1.png","images/prod_pend_lumen_2.png","images/prod_pend_lumen_3.png"],                                               "desc": "Pendientes con símbolo de corazón estrellado. Minimalistas y con significado.",                                                   "feats": ["Acero inoxidable bañado en oro 18K","Símbolo de luz","Resistente al agua","Diseño elegante"],                              "activo": true },
+    "lumen_set":         { "type": "Set Completo · Lumen",         "name": "Set Lumen",               "price": 35, "imgs": ["images/prod_collar_lumen_3.png","images/prod_collar_lumen_1.png","images/prod_pend_lumen_1.png"],                                           "desc": "Collar y pendientes Lumen. Luz y energía en cada pieza.",                                                                         "feats": ["Collar + Pendientes Lumen","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                         "activo": true },
+    "bloom_rosa_c":      { "type": "Collar · Bloom Rosa",          "name": "Collar Bloom Rosa",       "price": 27, "imgs": ["images/prod_collar_bloom_rosa_1.png","images/prod_collar_bloom_rosa_2.png"],                                                                "desc": "Flores rosas hechas a mano en acero inoxidable dorado. Delicado, romántico y con significado.",                                   "feats": ["Acero inoxidable bañado en oro 18K","Flor rosa artesanal","Resistente al agua","Hecho a mano en España"],                  "activo": true },
+    "bloom_rosa_p":      { "type": "Pendientes · Bloom Rosa",      "name": "Pendientes Bloom Rosa",   "price": 15, "imgs": ["images/prod_pend_bloom_rosa_1.png","images/prod_pend_bloom_rosa_2.png"],                                                                    "desc": "Flores rosas artesanales como pendientes. Par perfecto para el collar Bloom Rosa.",                                                "feats": ["Acero inoxidable bañado en oro 18K","Flor rosa artesanal","Resistente al agua","Hipoalergénico"],                           "activo": true },
+    "bloom_rosa_pres":   { "type": "Set · Bloom Rosa",             "name": "Set Bloom Rosa",          "price": 35, "imgs": ["images/bloom_rosa_presentacion.png","images/prod_collar_bloom_rosa_1.png","images/prod_pend_bloom_rosa_1.png"],                             "desc": "Collar y pendientes Bloom Rosa. El conjunto más romántico de la colección.",                                                       "feats": ["Collar + Pendientes flor rosa","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                     "activo": true },
+    "bloom_aqua_c":      { "type": "Collar · Bloom Aqua",          "name": "Collar Bloom Aqua",       "price": 27, "imgs": ["images/prod_collar_bloom_aqua_1.png","images/prod_collar_bloom_aqua_2.png","images/prod_collar_bloom_aqua_3.png"],                          "desc": "Flores mint hechas a mano. Frescura del agua y calma del mar en cada pieza.",                                                     "feats": ["Acero inoxidable bañado en oro 18K","Flor mint artesanal","Resistente al agua","Hecho a mano"],                            "activo": true },
+    "bloom_aqua_p":      { "type": "Pendientes · Bloom Aqua",      "name": "Pendientes Bloom Aqua",   "price": 15, "imgs": ["images/prod_pend_bloom_aqua_1.png","images/prod_pend_bloom_aqua_2.png"],                                                                    "desc": "Flores mint artesanales como pendientes. Serenidad y equilibrio en tu oído.",                                                     "feats": ["Acero inoxidable bañado en oro 18K","Flor mint artesanal","Resistente al agua","Hipoalergénico"],                           "activo": true },
+    "bloom_aqua_pres":   { "type": "Set · Bloom Aqua",             "name": "Set Bloom Aqua",          "price": 35, "imgs": ["images/bloom_aqua_presentacion.png","images/prod_collar_bloom_aqua_1.png","images/prod_pend_bloom_aqua_1.png"],                             "desc": "Collar y pendientes Bloom Aqua.",                                                                                                  "feats": ["Collar + Pendientes flor aqua","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                     "activo": true },
+    "bloom_emerald_c":   { "type": "Collar · Bloom Emerald",       "name": "Collar Bloom Emerald",    "price": 27, "imgs": ["images/prod_collar_bloom_emerald_1.png","images/prod_collar_bloom_emerald_2.png","images/prod_collar_bloom_emerald_3.png"],                 "desc": "Flores verdes hechas a mano, libélulas y símbolos naturales. Para conectar con tu autenticidad.",                                 "feats": ["Acero inoxidable bañado en oro 18K","Flor esmeralda artesanal","Resistente al agua","Hecho a mano"],                       "activo": true },
+    "bloom_emerald_p":   { "type": "Pendientes · Bloom Emerald",   "name": "Pendientes Bloom Emerald","price": 15, "imgs": ["images/prod_pend_bloom_emerald_1.png","images/prod_pend_bloom_emerald_2.png"],                                                              "desc": "Flores esmeralda artesanales como pendientes. Naturaleza y fuerza interior.",                                                     "feats": ["Acero inoxidable bañado en oro 18K","Flor esmeralda artesanal","Resistente al agua","Hipoalergénico"],                     "activo": true },
+    "bloom_emerald_pres":{ "type": "Set · Bloom Emerald",          "name": "Set Bloom Emerald",       "price": 35, "imgs": ["images/bloom_emerald_presentacion.png","images/prod_collar_bloom_emerald_1.png","images/prod_pend_bloom_emerald_1.png"],                    "desc": "Collar y pendientes Bloom Emerald.",                                                                                               "feats": ["Collar + Pendientes flor emerald","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                  "activo": true },
+    "bloom_sunset_c":    { "type": "Collar · Bloom Sunset",        "name": "Collar Bloom Sunset",     "price": 27, "imgs": ["images/prod_collar_bloom_sunset_1.png","images/prod_collar_bloom_sunset_2.png","images/prod_collar_bloom_sunset_3.png"],                   "desc": "Flores coral hechas a mano y símbolos marinos. Para mujeres que aman el verano.",                                                 "feats": ["Acero inoxidable bañado en oro 18K","Flor coral artesanal","Resistente al agua","Hecho a mano"],                           "activo": true },
+    "bloom_sunset_p":    { "type": "Pendientes · Bloom Sunset",    "name": "Pendientes Bloom Sunset", "price": 15, "imgs": ["images/prod_pend_bloom_sunset_1.png","images/prod_pend_bloom_sunset_2.png"],                                                                "desc": "Flores coral artesanales. La magia del atardecer en tu oído.",                                                                    "feats": ["Acero inoxidable bañado en oro 18K","Flor coral artesanal","Resistente al agua","Hipoalergénico"],                          "activo": true },
+    "bloom_sunset_pres": { "type": "Set · Bloom Sunset",           "name": "Set Bloom Sunset",        "price": 35, "imgs": ["images/bloom_sunset_presentacion.png","images/prod_collar_bloom_sunset_1.png","images/prod_pend_bloom_sunset_1.png"],                       "desc": "Collar y pendientes Bloom Sunset.",                                                                                                "feats": ["Collar + Pendientes flor sunset","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                   "activo": true },
+    "bloom_pearl_c":     { "type": "Collar · Bloom Pearl",         "name": "Collar Bloom Pearl",      "price": 27, "imgs": ["images/prod_collar_bloom_pearl_1.png","images/prod_collar_bloom_pearl_2.png"],                                                              "desc": "Flores nacaradas y detalles dorados. Minimalista, femenina y atemporal.",                                                         "feats": ["Acero inoxidable bañado en oro 18K","Flor nacarada artesanal","Resistente al agua","Hecho a mano"],                        "activo": true },
+    "bloom_pearl_p":     { "type": "Pendientes · Bloom Pearl",     "name": "Pendientes Bloom Pearl",  "price": 15, "imgs": ["images/prod_pend_bloom_pearl_1.png","images/prod_pend_bloom_pearl_2.png"],                                                                  "desc": "Flores perla artesanales. Elegancia natural en tu oído.",                                                                         "feats": ["Acero inoxidable bañado en oro 18K","Flor nacarada artesanal","Resistente al agua","Hipoalergénico"],                      "activo": true },
+    "bloom_pearl_pres":  { "type": "Set · Bloom Pearl",            "name": "Set Bloom Pearl",         "price": 35, "imgs": ["images/bloom_pearl_presentacion.png","images/prod_collar_bloom_pearl_1.png","images/prod_pend_bloom_pearl_1.png"],                          "desc": "Collar y pendientes Bloom Pearl.",                                                                                                 "feats": ["Collar + Pendientes flor pearl","Acero inoxidable bañado en oro 18K","Resistente al agua","Ahorra 7€"],                    "activo": true },
+    "capri_c":           { "type": "Collar · Colours Capri",       "name": "Collar Capri",            "price": 22, "imgs": ["images/prod_collar_capri_1.png","images/prod_collar_capri_2.png"],                                                                          "desc": "Vibrante y mediterráneo. Colores del verano italiano en acero inoxidable.",                                                       "feats": ["Acero inoxidable bañado en oro 18K","Diseño colorido mediterráneo","Resistente al agua","Hecho a mano"],                   "activo": true },
+    "coquette_c":        { "type": "Collar · Colours Coquette",    "name": "Collar Coquette",         "price": 22, "imgs": ["images/prod_collar_coquette_1.png","images/prod_collar_coquette_2.png"],                                                                    "desc": "Romántica y femenina. Tonos pastel y detalles dorados para un toque dulce y sofisticado.",                                        "feats": ["Acero inoxidable bañado en oro 18K","Estilo coquette aesthetic","Resistente al agua","Diseño romántico"],                   "activo": true }
+  }
+}

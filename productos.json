@@ -110,19 +110,6 @@
         "Diseño minimalista"
       ],
       "activo": true
-    },
-    "pendiente_prueba": {
-      "col": "Pendiente prueba",
-      "name": "Pendiente prueba",
-      "price": 15,
-      "imgs": [],
-      "desc": "Prendiente de prueba a ver si funciona la app de subida de productos",
-      "features": [
-        "Acero inoxidable 316L bañado en oro 18K",
-        "Resistente al agua",
-        "Hipoalergénico"
-      ],
-      "activo": true
     }
   },
   "bloom_pendientes": {
@@ -338,7 +325,7 @@
     "capri": {
       "col": "Colours · Capri",
       "name": "Collar Capri",
-      "price": 22.99,
+      "price": 22,
       "imgs": [
         "images/prod_collar_capri_1.png",
         "images/prod_collar_capri_2.png"
@@ -355,7 +342,7 @@
     "coquette": {
       "col": "Colours · Coquette",
       "name": "Collar Coquette",
-      "price": 22.99,
+      "price": 22,
       "imgs": [
         "images/prod_collar_coquette_1.png",
         "images/prod_collar_coquette_2.png"
@@ -902,22 +889,21 @@
       "activo": true
     },
     "capri_c": {
-      "col": "Collar · Colours Capri",
+      "type": "Collar · Colours Capri",
       "name": "Collar Capri",
-      "price": 22.99,
+      "price": 22,
       "imgs": [
         "images/prod_collar_capri_1.png",
         "images/prod_collar_capri_2.png"
       ],
       "desc": "Vibrante y mediterráneo. Colores del verano italiano en acero inoxidable.",
-      "activo": true,
       "feats": [
         "Acero inoxidable bañado en oro 18K",
         "Diseño colorido mediterráneo",
         "Resistente al agua",
         "Hecho a mano"
       ],
-      "type": "Collar · Colours Capri"
+      "activo": true
     },
     "coquette_c": {
       "type": "Collar · Colours Coquette",
@@ -936,5 +922,890 @@
       ],
       "activo": true
     }
-  }
+  },
+  "charms": [
+    {
+      "id": "libelula",
+      "name": "Libélula",
+      "cat": "dorados",
+      "img": "charm_libelula.png",
+      "w": 16,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "libelula_mini",
+      "name": "Libélula Mini",
+      "cat": "dorados",
+      "img": "charm_libelula_mini.png",
+      "w": 11,
+      "h": 12,
+      "activo": true
+    },
+    {
+      "id": "abeja",
+      "name": "Abeja",
+      "cat": "dorados",
+      "img": "charm_abeja.png",
+      "w": 16,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "ave",
+      "name": "Ave",
+      "cat": "dorados",
+      "img": "charm_ave.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "luna_creciente",
+      "name": "Luna Creciente",
+      "cat": "dorados",
+      "img": "charm_luna_creciente.png",
+      "w": 20,
+      "h": 22,
+      "activo": true
+    },
+    {
+      "id": "luna_mini_der",
+      "name": "Luna Mini",
+      "cat": "dorados",
+      "img": "charm_luna_mini_derecha.png",
+      "w": 7,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "estrella",
+      "name": "Estrella",
+      "cat": "dorados",
+      "img": "charm_estrella.png",
+      "w": 14,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "estrella_mini",
+      "name": "Estrella Mini",
+      "cat": "dorados",
+      "img": "charm_estrella_mini.png",
+      "w": 8,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "corazon",
+      "name": "Corazón",
+      "cat": "dorados",
+      "img": "charm_corazon.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "corazon_soleado",
+      "name": "Corazón Soleado",
+      "cat": "dorados",
+      "img": "charm_corazon_soleado.png",
+      "w": 18,
+      "h": 23,
+      "activo": true
+    },
+    {
+      "id": "corazon_estr",
+      "name": "Corazón Estrellado",
+      "cat": "dorados",
+      "img": "charm_corazon_estrellado.png",
+      "w": 13,
+      "h": 12,
+      "activo": true
+    },
+    {
+      "id": "corazon_ojo",
+      "name": "Corazón Ojo",
+      "cat": "dorados",
+      "img": "charm_corazon_ojo.png",
+      "w": 9,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "corazon_ojo_e",
+      "name": "Corazón Ojo Estr.",
+      "cat": "dorados",
+      "img": "charm_corazon_ojo_estrellado.png",
+      "w": 15,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "mini_corazon_e",
+      "name": "Mini Corazón Estr.",
+      "cat": "dorados",
+      "img": "charm_mini_corazon_estrellado.png",
+      "w": 6,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "sol_lineal",
+      "name": "Sol Lineal",
+      "cat": "dorados",
+      "img": "charm_sol_lineal.png",
+      "w": 20,
+      "h": 20,
+      "activo": true
+    },
+    {
+      "id": "sol_pequeno",
+      "name": "Sol Pequeño",
+      "cat": "dorados",
+      "img": "charm_sol_pequeno.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "brujula",
+      "name": "Brújula",
+      "cat": "dorados",
+      "img": "charm_brujula.png",
+      "w": 15,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "pluma",
+      "name": "Pluma",
+      "cat": "dorados",
+      "img": "charm_pluma.png",
+      "w": 7,
+      "h": 27,
+      "activo": true
+    },
+    {
+      "id": "pluma_pq",
+      "name": "Pluma Pequeña",
+      "cat": "dorados",
+      "img": "charm_pluma.png",
+      "w": 6,
+      "h": 22,
+      "activo": true
+    },
+    {
+      "id": "hoja_grande",
+      "name": "Hoja Grande",
+      "cat": "dorados",
+      "img": "charm_hoja_grande.png",
+      "w": 35,
+      "h": 24,
+      "activo": true
+    },
+    {
+      "id": "hoja_mediana",
+      "name": "Hoja Mediana",
+      "cat": "dorados",
+      "img": "charm_hoja_mediana.png",
+      "w": 13,
+      "h": 13,
+      "activo": true
+    },
+    {
+      "id": "hoja_pequena",
+      "name": "Hoja Pequeña",
+      "cat": "dorados",
+      "img": "charm_hoja_pequena.png",
+      "w": 6,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "mariposa_d",
+      "name": "Mariposa",
+      "cat": "dorados",
+      "img": "charm_mariposa_dorada.png",
+      "w": 10,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "flor_dorada",
+      "name": "Flor Dorada",
+      "cat": "dorados",
+      "img": "charm_flor_dorada.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "flor_brillante",
+      "name": "Flor Brillante",
+      "cat": "dorados",
+      "img": "charm_flor_brillante.png",
+      "w": 9,
+      "h": 11,
+      "activo": true
+    },
+    {
+      "id": "lagrima",
+      "name": "Lágrima",
+      "cat": "dorados",
+      "img": "charm_lagrima.png",
+      "w": 10,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "moneda",
+      "name": "Moneda",
+      "cat": "dorados",
+      "img": "charm_moneda.png",
+      "w": 19,
+      "h": 22,
+      "activo": true
+    },
+    {
+      "id": "moneda_estrella",
+      "name": "Moneda Estrella",
+      "cat": "dorados",
+      "img": "charm_moneda_estrella.png",
+      "w": 19,
+      "h": 22,
+      "activo": true
+    },
+    {
+      "id": "mini_moneda_e",
+      "name": "Mini Moneda",
+      "cat": "dorados",
+      "img": "charm_mini_moneda_estrellada.png",
+      "w": 6,
+      "h": 8,
+      "activo": true
+    },
+    {
+      "id": "concha_dorada",
+      "name": "Concha Dorada",
+      "cat": "dorados",
+      "img": "charm_concha_dorada.png",
+      "w": 8,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "caracola_d",
+      "name": "Caracola Dorada",
+      "cat": "dorados",
+      "img": "charm_caracola_dorada.png",
+      "w": 15,
+      "h": 21,
+      "activo": true
+    },
+    {
+      "id": "estrella_mar",
+      "name": "Estrella de Mar",
+      "cat": "dorados",
+      "img": "charm_estrella_mar.png",
+      "w": 15,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "caballito",
+      "name": "Caballito de Mar",
+      "cat": "dorados",
+      "img": "charm_caballito_mar.png",
+      "w": 8,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "tortuga_coral",
+      "name": "Tortuga Coral",
+      "cat": "dorados",
+      "img": "charm_tortuga_dorada-coral.png",
+      "w": 15,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "tortuga_turq_d",
+      "name": "Tortuga Turquesa",
+      "cat": "dorados",
+      "img": "charm_tortuga_dorada-turquesa.png",
+      "w": 15,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "nacar_elefante",
+      "name": "Nácar Elefante",
+      "cat": "dorados",
+      "img": "charm_nacar_elefante.png",
+      "w": 11,
+      "h": 9,
+      "activo": true
+    },
+    {
+      "id": "nacar_pez",
+      "name": "Nácar Pez",
+      "cat": "dorados",
+      "img": "charm_nacar_pez.png",
+      "w": 6,
+      "h": 11,
+      "activo": true
+    },
+    {
+      "id": "patita_perro",
+      "name": "Patita Perro",
+      "cat": "dorados",
+      "img": "charm_patita_perro.png",
+      "w": 9,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "bola_5mm",
+      "name": "Bola 5mm",
+      "cat": "dorados",
+      "img": "charm_bola_5mm.png",
+      "w": 5,
+      "h": 5,
+      "activo": true
+    },
+    {
+      "id": "cerezas",
+      "name": "Cerezas",
+      "cat": "dorados",
+      "img": "charm_cerezas.png",
+      "w": 11,
+      "h": 12,
+      "activo": true
+    },
+    {
+      "id": "chili_rojo",
+      "name": "Chili Rojo",
+      "cat": "dorados",
+      "img": "charm_chili_rojo.png",
+      "w": 5,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "concha",
+      "name": "Concha",
+      "cat": "dorados",
+      "img": "charm_concha.png",
+      "w": 16,
+      "h": 21,
+      "activo": true
+    },
+    {
+      "id": "ojo_blanco",
+      "name": "Ojo Blanco",
+      "cat": "ojos",
+      "img": "charm_ojo_blanco.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_azul",
+      "name": "Ojo Azul",
+      "cat": "ojos",
+      "img": "charm_ojo_azul.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_rosa",
+      "name": "Ojo Rosa",
+      "cat": "ojos",
+      "img": "charm_ojo_rosa.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_naranja",
+      "name": "Ojo Naranja",
+      "cat": "ojos",
+      "img": "charm_ojo_naranja.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_rojo",
+      "name": "Ojo Rojo",
+      "cat": "ojos",
+      "img": "charm_ojo_rojo.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_negro",
+      "name": "Ojo Negro",
+      "cat": "ojos",
+      "img": "charm_ojo_negro.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_turquesa",
+      "name": "Ojo Turquesa",
+      "cat": "ojos",
+      "img": "charm_ojo_turquesa.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "ojo_violeta",
+      "name": "Ojo Violeta",
+      "cat": "ojos",
+      "img": "charm_ojo_violeta.png",
+      "w": 13,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "mini_ojo",
+      "name": "Mini Ojo",
+      "cat": "ojos",
+      "img": "charm_mini_ojo.png",
+      "w": 6,
+      "h": 9,
+      "activo": true
+    },
+    {
+      "id": "cangrejo",
+      "name": "Cangrejo",
+      "cat": "verano",
+      "img": "charm_cangrejo.png",
+      "w": 26,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "coral",
+      "name": "Coral",
+      "cat": "verano",
+      "img": "charm_coral.png",
+      "w": 9,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "langostino_d",
+      "name": "Langostino",
+      "cat": "verano",
+      "img": "charm_langostino_der.png",
+      "w": 20,
+      "h": 31,
+      "activo": true
+    },
+    {
+      "id": "piedra_turq",
+      "name": "Piedra Turquesa",
+      "cat": "verano",
+      "img": "charm_piedra_turquesa.png",
+      "w": 10,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "caracola_cel",
+      "name": "Caracola Celeste",
+      "cat": "verano",
+      "img": "charm_caracola_celeste.png",
+      "w": 21,
+      "h": 13,
+      "activo": true
+    },
+    {
+      "id": "caracola_rosa",
+      "name": "Caracola Rosa",
+      "cat": "verano",
+      "img": "charm_caracola_rosa.png",
+      "w": 21,
+      "h": 13,
+      "activo": true
+    },
+    {
+      "id": "concha_cel",
+      "name": "Concha Celeste",
+      "cat": "verano",
+      "img": "charm_concha_celeste.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "concha_amar",
+      "name": "Concha Amarilla",
+      "cat": "verano",
+      "img": "charm_concha_marilla.png",
+      "w": 12,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "concha_rosa",
+      "name": "Concha Rosa",
+      "cat": "verano",
+      "img": "charm_concha_rosa.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "concha_verde",
+      "name": "Concha Verde",
+      "cat": "verano",
+      "img": "charm_concha_verde.png",
+      "w": 12,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "concha_viol",
+      "name": "Concha Violeta",
+      "cat": "verano",
+      "img": "charm_concha_violeta.png",
+      "w": 12,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "estrella_beig",
+      "name": "Estrella Beige",
+      "cat": "verano",
+      "img": "charm_estrella_beig.png",
+      "w": 12,
+      "h": 12,
+      "activo": true
+    },
+    {
+      "id": "estrella_turq",
+      "name": "Estrella Turquesa",
+      "cat": "verano",
+      "img": "charm_estrella_turquesa.png",
+      "w": 12,
+      "h": 12,
+      "activo": true
+    },
+    {
+      "id": "estr_mar_rosa",
+      "name": "Estr. Mar Rosa",
+      "cat": "verano",
+      "img": "charm_estrella_mar_rosa.png",
+      "w": 18,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "estr_mar_turq",
+      "name": "Estr. Mar Turquesa",
+      "cat": "verano",
+      "img": "charm_estrella_mar_turquesa.png",
+      "w": 18,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "estr_mar_verde",
+      "name": "Estr. Mar Verde",
+      "cat": "verano",
+      "img": "charm_estrella_mar_verde.png",
+      "w": 18,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "tort_beig",
+      "name": "Tortuga Beige",
+      "cat": "verano",
+      "img": "charm_tortuga_beig.png",
+      "w": 15,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "tort_rosa",
+      "name": "Tortuga Rosa",
+      "cat": "verano",
+      "img": "charm_tortuga_rosa.png",
+      "w": 15,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "tort_turq",
+      "name": "Tortuga Turquesa",
+      "cat": "verano",
+      "img": "charm_tortuga_turquesa.png",
+      "w": 15,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "tort_verde",
+      "name": "Tortuga Verde",
+      "cat": "verano",
+      "img": "charm_tortuga_verde.png",
+      "w": 15,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "pez_amar",
+      "name": "Pez Amarillo",
+      "cat": "verano",
+      "img": "charm_pez_amarillo.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "pez_azul",
+      "name": "Pez Azul",
+      "cat": "verano",
+      "img": "charm_pez_azul.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "pez_morado",
+      "name": "Pez Morado",
+      "cat": "verano",
+      "img": "charm_pez_morado.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "pez_nar",
+      "name": "Pez Naranja",
+      "cat": "verano",
+      "img": "charm_pez_naranja.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "pez_negro",
+      "name": "Pez Negro",
+      "cat": "verano",
+      "img": "charm_pez_negro.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "pez_rojo",
+      "name": "Pez Rojo",
+      "cat": "verano",
+      "img": "charm_pez_rojo.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "pez_turq",
+      "name": "Pez Turquesa",
+      "cat": "verano",
+      "img": "charm_pez_turquesa.png",
+      "w": 18,
+      "h": 13,
+      "activo": true
+    },
+    {
+      "id": "pez_verde",
+      "name": "Pez Verde",
+      "cat": "verano",
+      "img": "charm_pez_verde.png",
+      "w": 10,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "limon",
+      "name": "Limón",
+      "cat": "diversos",
+      "img": "charm_limon.png",
+      "w": 11,
+      "h": 17,
+      "activo": true
+    },
+    {
+      "id": "mariposa_rosa",
+      "name": "Mariposa Rosa",
+      "cat": "diversos",
+      "img": "charm_mariposa_rosa.png",
+      "w": 15,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "mariposa_verde",
+      "name": "Mariposa Verde",
+      "cat": "diversos",
+      "img": "charm_mariposa_verde.png",
+      "w": 15,
+      "h": 10,
+      "activo": true
+    },
+    {
+      "id": "trebol",
+      "name": "Trébol",
+      "cat": "diversos",
+      "img": "charm_trebol_.png",
+      "w": 11,
+      "h": 11,
+      "activo": true
+    },
+    {
+      "id": "trebol_verde",
+      "name": "Trébol Verde",
+      "cat": "diversos",
+      "img": "charm_trebol_verde.png",
+      "w": 11,
+      "h": 11,
+      "activo": true
+    },
+    {
+      "id": "trebol_v_claro",
+      "name": "Trébol V. Claro",
+      "cat": "diversos",
+      "img": "charm_trebol_verde_claro.png",
+      "w": 11,
+      "h": 11,
+      "activo": true
+    },
+    {
+      "id": "tulipan_amar",
+      "name": "Tulipán Amarillo",
+      "cat": "diversos",
+      "img": "charm_tulipan_amarillo.png",
+      "w": 14,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "tulipan_cel",
+      "name": "Tulipán Celeste",
+      "cat": "diversos",
+      "img": "charm_tulipan_celeste.png",
+      "w": 14,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "tulipan_rojo",
+      "name": "Tulipán Rojo",
+      "cat": "diversos",
+      "img": "charm_tulipan_rojo.png",
+      "w": 14,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "tulipan_rosa",
+      "name": "Tulipán Rosa",
+      "cat": "diversos",
+      "img": "charm_tulipan_rosa.png",
+      "w": 14,
+      "h": 14,
+      "activo": true
+    },
+    {
+      "id": "oso_morado",
+      "name": "Osito Morado",
+      "cat": "diversos",
+      "img": "charm_oso_azucarado_morado.png",
+      "w": 11,
+      "h": 20,
+      "activo": true
+    },
+    {
+      "id": "oso_rojo",
+      "name": "Osito Rojo",
+      "cat": "diversos",
+      "img": "charm_oso_azucarado_rojo.png",
+      "w": 11,
+      "h": 20,
+      "activo": true
+    },
+    {
+      "id": "oso_rosa_a",
+      "name": "Osito Rosa",
+      "cat": "diversos",
+      "img": "charm_oso_azucarado_rosa.png",
+      "w": 11,
+      "h": 20,
+      "activo": true
+    },
+    {
+      "id": "oso_celeste",
+      "name": "Osito Celeste",
+      "cat": "diversos",
+      "img": "charm_oso_celeste.png",
+      "w": 12,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "oso_lila",
+      "name": "Osito Lila",
+      "cat": "diversos",
+      "img": "charm_oso_lila.png",
+      "w": 12,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "oso_naranja",
+      "name": "Osito Naranja",
+      "cat": "diversos",
+      "img": "charm_oso_naranja.png",
+      "w": 12,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "oso_rojo_b",
+      "name": "Osito Rojo Oscuro",
+      "cat": "diversos",
+      "img": "charm_oso_rojo.png",
+      "w": 12,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "oso_rosa",
+      "name": "Osito Rosa Claro",
+      "cat": "diversos",
+      "img": "charm_oso_rosa.png",
+      "w": 12,
+      "h": 19,
+      "activo": true
+    },
+    {
+      "id": "oso_verde",
+      "name": "Osito Verde",
+      "cat": "diversos",
+      "img": "charm_oso_verde.png",
+      "w": 12,
+      "h": 19,
+      "activo": true
+    }
+  ],
+  "pulseras": {}
 }

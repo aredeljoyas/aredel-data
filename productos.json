@@ -110,6 +110,19 @@
         "Diseño minimalista"
       ],
       "activo": true
+    },
+    "pendiente_prueba": {
+      "col": "Pendiente prueba",
+      "name": "Pendiente prueba",
+      "price": 15,
+      "imgs": [],
+      "desc": "Pendiente prueba para ver que funcione",
+      "features": [
+        "Acero inoxidable 316L bañado en oro 18K",
+        "Resistente al agua",
+        "Hipoalergénico"
+      ],
+      "activo": true
     }
   },
   "bloom_pendientes": {

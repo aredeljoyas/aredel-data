@@ -109,7 +109,7 @@
         "Hipoalergénico",
         "Diseño minimalista"
       ],
-      "activo": true
+      "activo": false
     },
     "pendiente_prueba": {
       "col": "Pendiente prueba",
@@ -122,7 +122,7 @@
         "Resistente al agua",
         "Hipoalergénico"
       ],
-      "activo": false
+      "activo": true
     }
   },
   "bloom_pendientes": {

@@ -122,7 +122,7 @@
         "Resistente al agua",
         "Hipoalergénico"
       ],
-      "activo": true
+      "activo": false
     }
   },
   "bloom_pendientes": {

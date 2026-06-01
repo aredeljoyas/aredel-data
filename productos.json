@@ -6,7 +6,8 @@
       "price": 15,
       "imgs": [
         "images/prod_pend_amalfi_1.png",
-        "images/prod_pend_amalfi_2.png"
+        "images/prod_pend_amalfi_2.png",
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8862.jpeg"
       ],
       "desc": "Estrella de mar texturizada en acero inoxidable dorado. Pieza llamativa y artesanal inspirada en la costa italiana. Hipoalergénica y resistente al agua.",
       "features": [
@@ -16,7 +17,8 @@
         "Resistente al agua",
         "Hipoalergénico"
       ],
-      "activo": true
+      "activo": true,
+      "secciones_extra": []
     },
     "amalfi_mini": {
       "col": "Odyssey · Amalfi",

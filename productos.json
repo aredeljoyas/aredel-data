@@ -978,7 +978,7 @@
       "img": "charm_ave.png",
       "w": 12,
       "h": 15,
-      "activo": true
+      "activo": false
     },
     {
       "id": "luna_creciente",

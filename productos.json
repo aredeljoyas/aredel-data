@@ -1830,9 +1830,18 @@
       "id": "perro-globos",
       "name": "Perro de globos",
       "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/perrito_globos_dorado.png",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/01c190ea-51ee-465c-bd6b-e06d8070e562.jpeg",
       "w": 14,
       "h": 16,
+      "activo": true
+    },
+    {
+      "id": "estrella-cuatro-puntas",
+      "name": "Estrella de 4 puntas",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/estrella-cuatro-puntas_.jpg",
+      "w": 11,
+      "h": 15,
       "activo": true
     }
   ],

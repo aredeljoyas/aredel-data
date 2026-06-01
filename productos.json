@@ -1825,6 +1825,15 @@
       "w": 12,
       "h": 19,
       "activo": true
+    },
+    {
+      "id": "perro-globos",
+      "name": "Perro de globos",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/01c190ea-51ee-465c-bd6b-e06d8070e562.jpeg",
+      "w": 14,
+      "h": 16,
+      "activo": true
     }
   ],
   "pulseras": {}

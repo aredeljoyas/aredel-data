@@ -1014,7 +1014,7 @@
       "img": "charm_estrella_mini.png",
       "w": 8,
       "h": 10,
-      "activo": true
+      "activo": false
     },
     {
       "id": "corazon",

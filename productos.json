@@ -122,11 +122,9 @@
       ],
       "desc": "Pendientes con símbolo de corazón estrellado dorado. Minimalistas y con significado, perfectos para elevar cualquier look diario.",
       "features": [
-        "Acero inoxidable bañado en oro 18K",
-        "Símbolo de luz y energía",
+        "Acero inoxidable 316L bañado en oro 18K",
         "Resistente al agua",
-        "Hipoalergénico",
-        "Diseño minimalista"
+        "Hipoalergénico"
       ],
       "activo": true
     }
@@ -222,9 +220,9 @@
       "name": "Collar Aura",
       "price": 27,
       "imgs": [
-        "images/prod_collar_aura_1.png",
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/collar_luna_estrella_acero_inoxidable_dorado_1.png",
         "images/prod_collar_aura_2.png",
-        "images/prod_collar_aura_3.png"
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/collar_luna_estrella_acero_inoxidable_dorado.png"
       ],
       "desc": "Doble cadena con luna central y estrellas. Minimalista, elegante y atemporal.",
       "features": [

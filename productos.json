@@ -23,8 +23,9 @@
       "name": "Mini Estrella de Mar",
       "price": 15,
       "imgs": [
-        "images/prod_pend_amalfi_mini_1.png",
-        "images/prod_pend_amalfi_mini_2.png"
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/0d91d1f1-b11a-414b-8ecc-38b6fbb3234b.png",
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8860.png",
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8861.png"
       ],
       "desc": "Versión mini de la estrella de mar Amalfi. Discreta, delicada y perfecta para llevar todos los días o combinar con el collar Amalfi.",
       "features": [
@@ -34,7 +35,8 @@
         "Hipoalergénico",
         "Ideal para uso diario"
       ],
-      "activo": true
+      "activo": true,
+      "secciones_extra": []
     },
     "marrakesh": {
       "col": "Odyssey · Marrakesh",

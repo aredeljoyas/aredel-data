@@ -5,9 +5,8 @@
       "name": "Pendientes Estrella de Mar",
       "price": 15,
       "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/ee89dbda-6184-43d0-be5c-da056b324696.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8859.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8862.png"
+        "images/prod_pend_amalfi_1.png",
+        "images/prod_pend_amalfi_2.png"
       ],
       "desc": "Estrella de mar texturizada en acero inoxidable dorado. Pieza llamativa y artesanal inspirada en la costa italiana. Hipoalergénica y resistente al agua.",
       "features": [
@@ -17,8 +16,7 @@
         "Resistente al agua",
         "Hipoalergénico"
       ],
-      "activo": true,
-      "secciones_extra": []
+      "activo": true
     },
     "amalfi_mini": {
       "col": "Odyssey · Amalfi",
@@ -27,7 +25,7 @@
       "imgs": [
         "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/0d91d1f1-b11a-414b-8ecc-38b6fbb3234b.png",
         "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8860.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8861.png"
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8861.jpeg"
       ],
       "desc": "Versión mini de la estrella de mar Amalfi. Discreta, delicada y perfecta para llevar todos los días o combinar con el collar Amalfi.",
       "features": [

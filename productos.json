@@ -951,7 +951,7 @@
       "img": "charm_libelula.png",
       "w": 16,
       "h": 14,
-      "activo": true
+      "activo": false
     },
     {
       "id": "libelula_mini",
@@ -1014,7 +1014,7 @@
       "img": "charm_estrella_mini.png",
       "w": 8,
       "h": 10,
-      "activo": false
+      "activo": true
     },
     {
       "id": "corazon",

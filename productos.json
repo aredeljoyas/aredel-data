@@ -94,7 +94,7 @@
     },
     "lumen": {
       "col": "Colección Lumen",
-      "name": "Pendientes Lumen Aro",
+      "name": "Pendientes Lumen",
       "price": 15,
       "imgs": [
         "images/prod_pend_lumen_1.png",
@@ -112,13 +112,13 @@
       "activo": true
     },
     "pendiente_prueba": {
-      "col": "Pendientes Lumen",
+      "col": "Colección Lumen",
       "name": "Pendientes Lumen",
       "price": 15,
       "imgs": [
         "images/https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pendiente-corazon-estrellado-pegado-dorado-acero-inoxidable_.jpg"
       ],
-      "desc": "Pendiente prueba para ver que funcione",
+      "desc": "Pendientes con símbolo de corazón estrellado dorado. Minimalistas y con significado, perfectos para elevar cualquier look diario.",
       "features": [
         "Acero inoxidable 316L bañado en oro 18K",
         "Resistente al agua",

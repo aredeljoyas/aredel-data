@@ -951,7 +951,7 @@
       "img": "charm_libelula.png",
       "w": 16,
       "h": 14,
-      "activo": true
+      "activo": false
     },
     {
       "id": "libelula_mini",

@@ -1847,6 +1847,15 @@
       "w": 11,
       "h": 15,
       "activo": true
+    },
+    {
+      "id": "bola-verde",
+      "name": "Bola 8mm",
+      "cat": "diversos",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/sujeto.png",
+      "w": 8,
+      "h": 8,
+      "activo": true
     }
   ],
   "pulseras": {}

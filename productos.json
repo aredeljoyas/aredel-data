@@ -1865,6 +1865,15 @@
       "w": 18,
       "h": 20,
       "activo": true
+    },
+    {
+      "id": "sol-relieve",
+      "name": "Sol Relieve",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/sol-relieve.png",
+      "w": 19,
+      "h": 23,
+      "activo": true
     }
   ],
   "pulseras": {}

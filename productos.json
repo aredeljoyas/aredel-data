@@ -1261,9 +1261,9 @@
       "id": "patita_perro",
       "name": "Patita Perro",
       "cat": "dorados",
-      "img": "charm_patita_perro.png",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pata-perrito.png",
       "w": 9,
-      "h": 10,
+      "h": 11,
       "activo": true
     },
     {

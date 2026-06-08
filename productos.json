@@ -1805,6 +1805,15 @@
       "w": 12,
       "h": 19,
       "activo": true
+    },
+    {
+      "id": "caballito-mar-cer",
+      "name": "Caballito de mar cerámica",
+      "cat": "verano",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/caballito-mar-cer.png",
+      "w": 10,
+      "h": 18,
+      "activo": true
     }
   ],
   "pulseras": {},

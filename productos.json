@@ -1832,8 +1832,8 @@
       "name": "Tobillera Colors",
       "price": 19.95,
       "imgs": [
-        "images/tobillera-colors-acero-inoxidable.png",
-        "images/tobillera-colors-acero-inoxidable-.png"
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-colors-acero-inoxidable-.png",
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-colors-acero-inoxidable.png"
       ],
       "desc": "Charms de colores llenos de alegría y verano. Para quienes llevan el color donde van.",
       "features": [
@@ -1844,7 +1844,8 @@
         "Hipoalergénica",
         "Hecha a mano en España"
       ],
-      "activo": true
+      "activo": true,
+      "secciones_extra": []
     },
     "dracma": {
       "col": "Tobilleras · Dracma",

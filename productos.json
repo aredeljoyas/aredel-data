@@ -1807,30 +1807,66 @@
       "activo": true
     },
     {
-      "id": "caballito-mar-cer",
-      "name": "Caballito de mar cerámica",
-      "cat": "verano",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/caballito-mar-cer.png",
-      "w": 10,
-      "h": 18,
-      "activo": true
-    },
-    {
-      "id": "pez_dorado",
-      "name": "Pez dorado",
-      "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pez-dorado.png",
-      "w": 6,
-      "h": 12,
+      "id": "bola-verde",
+      "name": "Bola 8mm",
+      "cat": "diversos",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/bola_8mm.png",
+      "w": 8,
+      "h": 8,
       "activo": true
     },
     {
       "id": "concha-shell",
-      "name": "Concha shell",
-      "cat": "dorados",
+      "name": "Concha Shell",
+      "cat": "verano",
       "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/concha-shell-dorada-acero-inox.png",
       "w": 18,
       "h": 20,
+      "activo": true
+    },
+    {
+      "id": "estrella-4-puntas",
+      "name": "Estrella de 4 Puntas",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/estrella-cuatro-puntas.png",
+      "w": 11,
+      "h": 15,
+      "activo": true
+    },
+    {
+      "id": "sol-relieve",
+      "name": "Sol Relieve",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/sol-relieve.png",
+      "w": 19,
+      "h": 23,
+      "activo": true
+    },
+    {
+      "id": "caballito-mar-cer",
+      "name": "Caballito de Mar",
+      "cat": "verano",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/caballito-mar-cer.png",
+      "w": 8,
+      "h": 18,
+      "activo": true
+    },
+    {
+      "id": "perro-globos",
+      "name": "Perro de Globos",
+      "cat": "diversos",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/perrito_globos_dorado.png",
+      "w": 14,
+      "h": 16,
+      "activo": true
+    },
+    {
+      "id": "pez-dorado",
+      "name": "Pez Dorado",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pez-dorado.png",
+      "w": 14,
+      "h": 12,
       "activo": true
     }
   ],
@@ -1841,8 +1877,8 @@
       "name": "Tobillera Algarve",
       "price": 19.95,
       "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-algarve-acero-inoxidable-conchas-dorada_.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-algarve-acero-inoxidable-conchas-dorada.png"
+        "images/tobillera-algarve-acero-inoxidable-conchas-dorada.png",
+        "images/tobillera-algarve-acero-inoxidable-conchas-dorada_.png"
       ],
       "desc": "Conchas doradas para llevar el mar contigo. Inspirada en las playas del Algarve portugués.",
       "features": [
@@ -1852,8 +1888,7 @@
         "Hipoalergénica",
         "Hecha a mano en España"
       ],
-      "activo": true,
-      "secciones_extra": []
+      "activo": true
     },
     "colors": {
       "col": "Tobilleras · Colors",

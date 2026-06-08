@@ -1825,12 +1825,12 @@
       "activo": true
     },
     {
-      "id": "bola-8mm",
-      "name": "Bola 8mm",
-      "cat": "diversos",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/bola_8mm.png",
-      "w": 8,
-      "h": 8,
+      "id": "concha-shell",
+      "name": "Concha shell",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/concha-shell-dorada-acero-inox.png",
+      "w": 18,
+      "h": 20,
       "activo": true
     }
   ],

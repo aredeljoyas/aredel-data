@@ -1814,8 +1814,8 @@
       "name": "Tobillera Algarve",
       "price": 19.95,
       "imgs": [
-        "images/tobillera-algarve-acero-inoxidable-conchas-dorada.png",
-        "images/tobillera-algarve-acero-inoxidable-conchas-dorada_.png"
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-algarve-acero-inoxidable-conchas-dorada_.png",
+        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-algarve-acero-inoxidable-conchas-dorada.png"
       ],
       "desc": "Conchas doradas para llevar el mar contigo. Inspirada en las playas del Algarve portugués.",
       "features": [
@@ -1825,15 +1825,16 @@
         "Hipoalergénica",
         "Hecha a mano en España"
       ],
-      "activo": true
+      "activo": true,
+      "secciones_extra": []
     },
     "colors": {
       "col": "Tobilleras · Colors",
       "name": "Tobillera Colors",
       "price": 19.95,
       "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-colors-acero-inoxidable-.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/tobillera-colors-acero-inoxidable.png"
+        "images/tobillera-colors-acero-inoxidable.png",
+        "images/tobillera-colors-acero-inoxidable-.png"
       ],
       "desc": "Charms de colores llenos de alegría y verano. Para quienes llevan el color donde van.",
       "features": [
@@ -1844,8 +1845,7 @@
         "Hipoalergénica",
         "Hecha a mano en España"
       ],
-      "activo": true,
-      "secciones_extra": []
+      "activo": true
     },
     "dracma": {
       "col": "Tobilleras · Dracma",

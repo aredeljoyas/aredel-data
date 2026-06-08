@@ -1814,6 +1814,15 @@
       "w": 10,
       "h": 18,
       "activo": true
+    },
+    {
+      "id": "pez_dorado",
+      "name": "Pez dorado",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pez-dorado.png",
+      "w": 6,
+      "h": 12,
+      "activo": true
     }
   ],
   "pulseras": {},

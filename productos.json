@@ -5,9 +5,8 @@
       "name": "Pendientes Estrella de Mar",
       "price": 15,
       "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/ee89dbda-6184-43d0-be5c-da056b324696.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8859.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8862.jpeg"
+        "images/prod_pend_amalfi_1.png",
+        "images/prod_pend_amalfi_2.png"
       ],
       "desc": "Estrella de mar texturizada en acero inoxidable dorado. Pieza llamativa y artesanal inspirada en la costa italiana. Hipoalergénica y resistente al agua.",
       "features": [
@@ -17,17 +16,15 @@
         "Resistente al agua",
         "Hipoalergénico"
       ],
-      "activo": true,
-      "secciones_extra": []
+      "activo": true
     },
     "amalfi_mini": {
       "col": "Odyssey · Amalfi",
       "name": "Mini Estrella de Mar",
       "price": 15,
       "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/0d91d1f1-b11a-414b-8ecc-38b6fbb3234b.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8860.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8861.jpeg"
+        "images/prod_pend_amalfi_mini_1.png",
+        "images/prod_pend_amalfi_mini_2.png"
       ],
       "desc": "Versión mini de la estrella de mar Amalfi. Discreta, delicada y perfecta para llevar todos los días o combinar con el collar Amalfi.",
       "features": [
@@ -37,8 +34,7 @@
         "Hipoalergénico",
         "Ideal para uso diario"
       ],
-      "activo": true,
-      "secciones_extra": []
+      "activo": true
     },
     "marrakesh": {
       "col": "Odyssey · Marrakesh",
@@ -98,7 +94,7 @@
     },
     "lumen": {
       "col": "Colección Lumen",
-      "name": "Pendientes Lumen Aro",
+      "name": "Pendientes Lumen",
       "price": 15,
       "imgs": [
         "images/prod_pend_lumen_1.png",
@@ -114,26 +110,6 @@
         "Diseño minimalista"
       ],
       "activo": true
-    },
-    "pendiente_prueba": {
-      "col": "Pendientes Lumen",
-      "name": "Pendientes Lumen",
-      "price": 15,
-      "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pendiente-corazon-estrellado-stud-dorado-acero-inoxidable-.jpg",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pendiente-corazon-estrellado-stud-dorado-acero-inoxidable-1.jpg",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pendiente-corazon-estrellado-stud-dorado-acero-inoxidable_.jpg"
-      ],
-      "desc": "Pendientes con símbolo de corazón estrellado dorado. Minimalistas y con significado, perfectos para elevar cualquier look diario.",
-      "features": [
-        "Acero inoxidable 316L bañado en oro 18K",
-        "Resistente al agua",
-        "Hipoalergénico"
-      ],
-      "activo": true,
-      "secciones_extra": [
-        "colecciones"
-      ]
     }
   },
   "bloom_pendientes": {
@@ -227,9 +203,9 @@
       "name": "Collar Aura",
       "price": 27,
       "imgs": [
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/collar_luna_estrella_acero_inoxidable_dorado_1.png",
+        "images/prod_collar_aura_1.png",
         "images/prod_collar_aura_2.png",
-        "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/collar_luna_estrella_acero_inoxidable_dorado.png"
+        "images/prod_collar_aura_3.png"
       ],
       "desc": "Doble cadena con luna central y estrellas. Minimalista, elegante y atemporal.",
       "features": [
@@ -1829,52 +1805,84 @@
       "w": 12,
       "h": 19,
       "activo": true
-    },
-    {
-      "id": "perro-globos",
-      "name": "Perro de globos",
-      "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8846.png",
-      "w": 14,
-      "h": 16,
-      "activo": true
-    },
-    {
-      "id": "estrella-4-puntas",
-      "name": "Estrella de 4 puntas",
-      "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_8845.png",
-      "w": 11,
-      "h": 15,
-      "activo": true
-    },
-    {
-      "id": "bola-verde",
-      "name": "Bola 8mm",
-      "cat": "diversos",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/bola_8mm.png",
-      "w": 8,
-      "h": 8,
-      "activo": true
-    },
-    {
-      "id": "concha-shell",
-      "name": "Concha shell",
-      "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/concha-shell-dorada-acero-inox.png",
-      "w": 18,
-      "h": 20,
-      "activo": true
-    },
-    {
-      "id": "sol-relieve",
-      "name": "Sol Relieve",
-      "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/sol-relieve.png",
-      "w": 19,
-      "h": 23,
-      "activo": true
     }
   ],
-  "pulseras": {}
+  "pulseras": {},
+  "tobilleras": {
+    "algarve": {
+      "col": "Tobilleras · Algarve",
+      "name": "Tobillera Algarve",
+      "price": 19.95,
+      "imgs": [
+        "images/tobillera-algarve-acero-inoxidable-conchas-dorada.png",
+        "images/tobillera-algarve-acero-inoxidable-conchas-dorada_.png"
+      ],
+      "desc": "Conchas doradas para llevar el mar contigo. Inspirada en las playas del Algarve portugués.",
+      "features": [
+        "Acero inoxidable 316L bañado en oro 18K",
+        "Resistente al agua",
+        "25 cm",
+        "Hipoalergénica",
+        "Hecha a mano en España"
+      ],
+      "activo": true
+    },
+    "colors": {
+      "col": "Tobilleras · Colors",
+      "name": "Tobillera Colors",
+      "price": 19.95,
+      "imgs": [
+        "images/tobillera-colors-acero-inoxidable.png",
+        "images/tobillera-colors-acero-inoxidable-.png"
+      ],
+      "desc": "Charms de colores llenos de alegría y verano. Para quienes llevan el color donde van.",
+      "features": [
+        "Acero inoxidable 316L bañado en oro 18K",
+        "Charms de colores",
+        "Resistente al agua",
+        "25 cm",
+        "Hipoalergénica",
+        "Hecha a mano en España"
+      ],
+      "activo": true
+    },
+    "dracma": {
+      "col": "Tobilleras · Dracma",
+      "name": "Tobillera Dracma",
+      "price": 19.95,
+      "imgs": [
+        "images/tobillera-monedas-acero-inoxidable.png",
+        "images/tobillera-monedas-acero-inoxidable-.png"
+      ],
+      "desc": "Monedas doradas que evocan tesoros mediterráneos. Elegante y atemporal.",
+      "features": [
+        "Acero inoxidable 316L bañado en oro 18K",
+        "Charms de monedas",
+        "Resistente al agua",
+        "25 cm",
+        "Hipoalergénica",
+        "Hecha a mano en España"
+      ],
+      "activo": true
+    },
+    "round": {
+      "col": "Tobilleras · Round",
+      "name": "Tobillera Round",
+      "price": 19.95,
+      "imgs": [
+        "images/tobillera-round-acero-inoxidable.png",
+        "images/tobillera-round-acero-inoxidable-.png"
+      ],
+      "desc": "Elegancia circular. Minimalista y atemporal para llevar cada día.",
+      "features": [
+        "Acero inoxidable 316L bañado en oro 18K",
+        "Charms circulares",
+        "Resistente al agua",
+        "25 cm",
+        "Hipoalergénica",
+        "Hecha a mano en España"
+      ],
+      "activo": true
+    }
+  }
 }

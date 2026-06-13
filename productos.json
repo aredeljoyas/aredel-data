@@ -1895,6 +1895,15 @@
       "w": 9,
       "h": 9,
       "activo": true
+    },
+    {
+      "id": "estrella-vidrio",
+      "name": "Estrella de mar de Vidrio",
+      "cat": "verano",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/estrella_mar_cristal.png",
+      "w": 33,
+      "h": 37,
+      "activo": true
     }
   ],
   "pulseras": {},

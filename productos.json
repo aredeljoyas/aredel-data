@@ -1081,7 +1081,7 @@
       "id": "pluma",
       "name": "Pluma",
       "cat": "dorados",
-      "img": "charm_pluma.png",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pluma_dorada.png",
       "w": 7,
       "h": 27,
       "activo": true
@@ -1090,7 +1090,7 @@
       "id": "pluma_pq",
       "name": "Pluma Pequeña",
       "cat": "dorados",
-      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pluma_dorada.png",
+      "img": "charm_pluma.png",
       "w": 6,
       "h": 22,
       "activo": true

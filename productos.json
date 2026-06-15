@@ -1088,11 +1088,11 @@
     },
     {
       "id": "pluma_pq",
-      "name": "Pluma Pequeña",
+      "name": "Pluma",
       "cat": "dorados",
       "img": "charm_pluma.png",
-      "w": 6,
-      "h": 22,
+      "w": 7,
+      "h": 27,
       "activo": true
     },
     {

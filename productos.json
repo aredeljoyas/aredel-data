@@ -1081,7 +1081,7 @@
       "id": "pluma",
       "name": "Pluma",
       "cat": "dorados",
-      "img": "charm_pluma.png",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pluma-dorada.jpg",
       "w": 7,
       "h": 27,
       "activo": true

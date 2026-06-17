@@ -1904,6 +1904,15 @@
       "w": 33,
       "h": 37,
       "activo": true
+    },
+    {
+      "id": "concha-nacar",
+      "name": "Concha nácar",
+      "cat": "verano",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/concha-na_car.png",
+      "w": 12,
+      "h": 12,
+      "activo": true
     }
   ],
   "pulseras": {},

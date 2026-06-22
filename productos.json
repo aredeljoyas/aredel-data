@@ -1867,7 +1867,7 @@
       "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/pez-dorado.png",
       "w": 14,
       "h": 12,
-      "activo": true
+      "activo": false
     },
     {
       "id": "concha-dor",

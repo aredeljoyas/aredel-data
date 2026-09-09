@@ -1922,6 +1922,15 @@
       "w": 11,
       "h": 13,
       "activo": true
+    },
+    {
+      "id": "estrella-verde",
+      "name": "Estrella brillo verde",
+      "cat": "dorados",
+      "img": "https://pub-3bb446f0513e4008862fe8488f4f7b14.r2.dev/img_0862.png",
+      "w": 9,
+      "h": 11,
+      "activo": true
     }
   ],
   "pulseras": {},
